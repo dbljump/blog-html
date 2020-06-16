@@ -1,5 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2020-06-05T20:38:46+01:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">What is Dbljump?</title><link href="https://blog.dbljump.com/2020/06/03/what-is-dbljump/" rel="alternate" type="text/html" title="What is Dbljump?" /><published>2020-06-03T00:00:00+01:00</published><updated>2020-06-03T00:00:00+01:00</updated><id>https://blog.dbljump.com/2020/06/03/what-is-dbljump</id><content type="html" xml:base="https://blog.dbljump.com/2020/06/03/what-is-dbljump/">&lt;p&gt;&lt;strong&gt;Hello world&lt;/strong&gt;, Dbljump is a video game knowledge reference.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2020-06-16T10:47:03+01:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">What is Dbljump?</title><link href="https://blog.dbljump.com/2020/06/15/what-is-dbljump/" rel="alternate" type="text/html" title="What is Dbljump?" /><published>2020-06-15T00:00:00+01:00</published><updated>2020-06-15T00:00:00+01:00</updated><id>https://blog.dbljump.com/2020/06/15/what-is-dbljump</id><content type="html" xml:base="https://blog.dbljump.com/2020/06/15/what-is-dbljump/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dbljump is a mission to build the world’s best video game knowledge reference. It has the structure of a database, detailed prose like an encyclopaedia, and is 100% gaming focused. We’re launching an “alpha” version, with the goal of building the community and shaping development plans. Presentation and features will keep evolving with guidance from our community. This post will be updated when sign-ups open.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;You’re looking at a test deployment of our blog site.&lt;/p&gt;
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/images/2020/06/game-article.jpg&quot; title=&quot;Part of a game article on Dbljump&quot;&gt;
+          &lt;img src=&quot;/assets/images/2020/06/game-article-th.jpg&quot; alt=&quot;Part of a game article on Dbljump&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;/assets/images/2020/06/company-images-dashboard.jpg&quot; title=&quot;Managing images for a company article&quot;&gt;
+          &lt;img src=&quot;/assets/images/2020/06/company-images-dashboard-th.jpg&quot; alt=&quot;Managing images for a company article&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;/assets/images/2020/06/game-releases-dashboard.jpg&quot; title=&quot;Adding a release for a game. Specify platform, place, date and media.&quot;&gt;
+          &lt;img src=&quot;/assets/images/2020/06/game-releases-dashboard-th.jpg&quot; alt=&quot;Adding a release for a game. Specify platform, place, date and media.&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
 
-&lt;p&gt;Please check back soon!&lt;/p&gt;</content><author><name>Neil Wheatley</name></author><summary type="html">Hello world, Dbljump is a video game knowledge reference.</summary></entry></feed>
+&lt;p&gt;Hello and welcome to the Dbljump blog! This is our very first post.&lt;/p&gt;
+
+&lt;p&gt;As a kid I loved computer games (as we called them in 1990s England). As a grown-up, that hasn’t changed. Why would it?&lt;/p&gt;
+
+&lt;p&gt;Gaming is massive today. It’s a huge market, it’s popular everywhere, and it’s inspiring all kinds of creativity. But somehow, games have stayed far outside the establishment. It’s as if the medium is still too new to be trusted. Big players in the entertainment industries still don’t understand gaming. The press is still happy to vilify them. Some critics have said games can never be art.&lt;/p&gt;
+
+&lt;p&gt;Video games’ current standing reminds me of a lecture from my English degree. The lecture was about early novels. A few hundred years ago, reading novels was considered self-indulgent, a waste of time. Today, great novels are regarded as high art. That’s the journey all culture makes.&lt;/p&gt;
+
+&lt;p&gt;A lot of novels are worthless trash; many are fantastic. The same can be said of video games. There’s no doubt in my mind that in the future, games will be held in the same regard as literature, music and cinema. It’s going to take a while.&lt;/p&gt;
+
+&lt;p&gt;But some of us already appreciate the wonder and importance of video games. If you’re one of them, Dbljump is for you.&lt;/p&gt;
+
+&lt;h2 id=&quot;dbljump-is-a-video-game-knowledge-reference&quot;&gt;Dbljump is a video game knowledge reference&lt;/h2&gt;
+
+&lt;p&gt;The goal of Dbljump is this: &lt;strong&gt;one place on the Internet with everything you want to know about video games and the games industry&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2020/06/person-article-mobile-th.jpg&quot; alt=&quot;image-right&quot; class=&quot;align-right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The closest thing we have to that now is Wikipedia. Which is amazing, of course. It has a brilliant community and content. The problem with Wikipedia is that it doesn’t have trailers and screens. It doesn’t structure data in ways you can analyse, or help you join the dots between games, people, and companies. It’s a general reference, not one dedicated to gaming.&lt;/p&gt;
+
+&lt;p&gt;There are a few game databases around too. They’re like gaming versions of IMDb. But none of them has ever gained much traction because none is quite right. Some fail on presentation. Some prioritise quantity over quality, trying to catalogue every game ever created. Others are mere scrapers, which don’t add much value to the data they collect.&lt;/p&gt;
+
+&lt;p&gt;Dbljump is our answer to this problem. Our mission is to make it the best gaming reference in the world.&lt;/p&gt;
+
+&lt;h2 id=&quot;which-features-are-in-the-dbljump-alpha-whats-coming-in-the-future&quot;&gt;Which features are in the Dbljump alpha? What’s coming in the future?&lt;/h2&gt;
+
+&lt;p&gt;Dbljump combines &lt;strong&gt;the encyclopaedia-style content of Wikipedia with the structured data of a database&lt;/strong&gt;. And it’s our goal to present everything beautifully. (We aren’t there yet and we’d love your feedback.)&lt;/p&gt;
+
+&lt;p&gt;We’re launching in an “alpha” state. That’s the stage before beta, i.e. early days. It’s functional, but it doesn’t have all the features we’re planning yet. There will definitely be bugs. Almost everything has room for improvement.&lt;/p&gt;
+
+&lt;p&gt;At launch Dbljump editors will be able to create articles about…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Games&lt;/strong&gt; including:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Platform versions&lt;/strong&gt; with technical details (e.g. frame-rate and resolution)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Releases&lt;/strong&gt; for each version with dates, places, and basic media types&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Genres&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Company and staff credits&lt;/strong&gt; with options to specify version and place (e.g. the publisher of the Nintendo Switch version in North America)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Images&lt;/strong&gt; including screenshots, box arts, art, and more; you can specify a version, place, date, and add the proper attributions&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aliases&lt;/strong&gt; with options to specify place, kind (e.g. working titles), writing system (e.g. Japanese, Chinese, Cyrillic, etc.)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Notes&lt;/strong&gt;, which are Dbljump’s categorised, encyclopaedia-like text with references; categories for game notes include development, story, and cultural impact&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;People&lt;/strong&gt; including:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Personal details&lt;/strong&gt; like date and place of birth/death, and aliases&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Game credits&lt;/strong&gt; including role, place and version where appropriate&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Images&lt;/strong&gt; including photos and artworks; as with game images, you can specify a version, place, date, and add the proper attributions&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Notes&lt;/strong&gt; with references, so you can provide biographical detail; categories for people include biography, education, and career&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Companies&lt;/strong&gt; including:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Company details&lt;/strong&gt; like locations, founding and closing dates&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Relationships&lt;/strong&gt; between organisations, past and present; so we can link divisions and subsidiaries to their parents&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aliases&lt;/strong&gt; so we can chart name changes and names in different places, writing systems&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Credits&lt;/strong&gt; including role, place and version where appropriate&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Images&lt;/strong&gt; including logos, photos, document scans and more; like with people images, you can specify a version, place, date, and add the proper attributions&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Notes&lt;/strong&gt; with references, so you can provide historic detail; categories for companies include history, technologies, and products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We plan to add new features including videos, game character articles, awards, and sales figures. Game platforms will become first-class articles with their own images, notes, and platform-specific data.&lt;/p&gt;
+
+&lt;p&gt;You can tell us which features are important via &lt;a href=&quot;https://www.twitter.com/dbljumpgames&quot;&gt;Twitter&lt;/a&gt; and our Discord (opening soon).&lt;/p&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/assets/images/2020/06/platforms-dashboard.jpg&quot; alt=&quot;Search, filter, add and edit game platforms&quot; /&gt;
+  
+    &lt;figcaption&gt;
+      Search, filter, add and edit game platforms
+
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;which-topics-are-notable-enough&quot;&gt;Which topics are notable enough?&lt;/h2&gt;
+
+&lt;p&gt;Dbljump editors can create articles about &lt;strong&gt;whichever games, people and companies you want&lt;/strong&gt;. If you love 90s Sega arcades, try forming a group around that. If you want to be first to put together info and media about newly announced games, do it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2020/06/companies-dash-mobile-th.jpg&quot; alt=&quot;image-left&quot; class=&quot;align-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re focused on gaming. Many games, people, and companies that aren’t notable enough for Wikipedia are welcome here. Our tools and presentation are specialised for gaming topics.&lt;/p&gt;
+
+&lt;p&gt;So, if you love a particular gaming niche, or you’re a fan of an under-appreciated game director or company, you can use Dbljump to shine a light on them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We’re not here to robotically input every retro game&lt;/strong&gt;. We believe the topics our community wants to &lt;em&gt;write&lt;/em&gt; about are likely the topics the wider audience wants to &lt;em&gt;read&lt;/em&gt; about.&lt;/p&gt;
+
+&lt;p&gt;Also, we want you to enjoy contributing to Dbljump - this is for fun, not work!&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-become-a-dbljump-editor&quot;&gt;How to become a Dbljump editor&lt;/h2&gt;
+
+&lt;p&gt;Sign-up is opening  soon and I’ll update this post when it does.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, please feel free to ask questions and let us know what you think. You can do that via our &lt;a href=&quot;https://www.twitter.com/dbljumpgames&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.facebook.com/dbljumpgames&quot;&gt;Facebook&lt;/a&gt; pages.&lt;/p&gt;
+
+&lt;p&gt;We’re really excited about finally launching Dbljump. We hope you’ll support us as we work to build a gaming reference we can all enjoy and be proud of!&lt;/p&gt;</content><author><name>Neil Wheatley</name></author><summary type="html">Learn more about what's in the Dbljump video game reference at launch, and what makes it different, in our first blog post.</summary></entry></feed>
