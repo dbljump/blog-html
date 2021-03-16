@@ -1,7 +1,7 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.19.3 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.22.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
@@ -14,6 +14,9 @@
 
 
   <meta name="author" content="Neil Wheatley">
+  
+  <meta property="article:author" content="Neil Wheatley">
+  
 
 
 <meta property="og:type" content="article">
@@ -84,7 +87,9 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Dbljump Blog Feed">
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Dbljump Blog Feed">
+
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -95,6 +100,7 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
 <!--[if IE]>
   <style>
@@ -110,7 +116,6 @@
     }
   </style>
 <![endif]-->
-
 
 
     <!-- start custom head snippets -->
@@ -142,7 +147,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/brand/symbol-primary-88x88.png" alt=""></a>
+          <a class="site-logo" href="/"><img src="/assets/images/brand/symbol-primary-88x88.png" alt="Dbljump Blog"></a>
         
         <a class="site-title" href="/">
           Dbljump Blog
@@ -294,15 +299,26 @@
           <h1 id="page-title" class="page__title" itemprop="headline">What is Dbljump?
 </h1>
           
-            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
 
 
-
-
-  5 minute read
-
-</p>
-          
         </header>
       
 
@@ -399,14 +415,10 @@
 <p>You can tell us which features are important via <a href="https://www.twitter.com/dbljumpgames">Twitter</a> and our Discord (opening soon).</p>
 
 <figure class="">
-  <img src="/assets/images/2020/06/platforms-dashboard.jpg" alt="Search, filter, add and edit game platforms" />
-  
-    <figcaption>
+  <img src="/assets/images/2020/06/platforms-dashboard.jpg" alt="Search, filter, add and edit game platforms" /><figcaption>
       Search, filter, add and edit game platforms
 
-    </figcaption>
-  
-</figure>
+    </figcaption></figure>
 
 <h2 id="which-topics-are-notable-enough">Which topics are notable enough?</h2>
 
@@ -442,15 +454,11 @@
 
 
   
-  
-  
 
   <p class="page__taxonomy">
     <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
     <span itemprop="keywords">
     
-      
-      
       <a href="/categories/mission" class="page__taxonomy-item" rel="tag">Mission</a>
     
     </span>
@@ -477,6 +485,16 @@
 
 
       
+  <nav class="pagination">
+    
+      <a href="#" class="pagination--pager disabled">Previous</a>
+    
+    
+      <a href="/2021/03/16/dbljump-editor-signups-are-open/" class="pagination--pager" title="Dbljump editor signups are open – here’s what you need to know
+">Next</a>
+    
+  </nav>
+
     </div>
 
     
@@ -489,9 +507,52 @@
       <div class="grid__wrapper">
         
           
-            
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/2021/03/dbljump-editor-community.jpg" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2021/03/16/dbljump-editor-signups-are-open/" rel="permalink">Dbljump editor signups are open – here’s what you need to know
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Learn about the editor registration approval process, the current project development phase, and coming support for editors.
+</p>
+  </article>
+</div>
+
+        
       </div>
     </div>
+  
   
 </div>
 
@@ -510,7 +571,7 @@
         <div class="page__footer-links">
 
   <div class="symbol">
-    <img src="/assets/images/brand/symbol-light.svg" height="24" width="24">  
+    <img src="/assets/images/brand/symbol-light.svg" height="24" width="24">
   </div>
 
   <div class="links">
@@ -536,7 +597,7 @@
           Games industry people
       </li>
       <li>
-        <a href="https://account.dbljump.com">
+        <a href="https://id.dbljump.com">
           Your account
       </li>
       <li>
@@ -576,18 +637,19 @@
       
     
 
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 Dbljump. Made with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2021 Dbljump. Made with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
 
     
   <script src="/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 <!-- Including InstantSearch.js library and styling -->
@@ -636,13 +698,20 @@ search.addWidget(
   instantsearch.widgets.hits({
     container: '.search-hits',
     templates: {
-      item: hitTemplate
+      item: hitTemplate,
+      empty: 'No results',
     }
   })
 );
 
-// Starting the search
-search.start();
+// Starting the search only when toggle is clicked
+$(document).ready(function () {
+  $(".search__toggle").on("click", function() {
+    if(!search.started) {
+      search.start();
+    }
+  });
+});
 </script>
 
 

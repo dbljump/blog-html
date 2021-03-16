@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2020-06-16T10:47:03+01:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">What is Dbljump?</title><link href="https://blog.dbljump.com/2020/06/15/what-is-dbljump/" rel="alternate" type="text/html" title="What is Dbljump?" /><published>2020-06-15T00:00:00+01:00</published><updated>2020-06-15T00:00:00+01:00</updated><id>https://blog.dbljump.com/2020/06/15/what-is-dbljump</id><content type="html" xml:base="https://blog.dbljump.com/2020/06/15/what-is-dbljump/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dbljump is a mission to build the world’s best video game knowledge reference. It has the structure of a database, detailed prose like an encyclopaedia, and is 100% gaming focused. We’re launching an “alpha” version, with the goal of building the community and shaping development plans. Presentation and features will keep evolving with guidance from our community. This post will be updated when sign-ups open.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2021-03-16T10:53:52+00:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">Dbljump editor signups are open – here’s what you need to know</title><link href="https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open/" rel="alternate" type="text/html" title="Dbljump editor signups are open -- here's what you need to know" /><published>2021-03-16T00:00:00+00:00</published><updated>2021-03-16T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open</id><content type="html" xml:base="https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open/">&lt;p&gt;&lt;img src=&quot;/assets/images/2021/03/dbljump-editor-community.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; You can now sign up to become a Dbljump editor! You’ll need to be approved before you can start editing. The project is evolving, and some features aren’t here yet, but as an editor you can help shape them. We plan to improve support materials for editors in the coming weeks.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You can now &lt;a href=&quot;https://id.dbljump.com/register&quot;&gt;sign up&lt;/a&gt; to become an editor of Dbljump!&lt;/p&gt;
+
+&lt;p&gt;We hope that Dbljump will grow into &lt;a href=&quot;https://about.dbljump.com/editor-community&quot;&gt;a friendly, active community&lt;/a&gt; that works together to create the world’s best video game reference. We’d love you to join.&lt;/p&gt;
+
+&lt;p&gt;Here are a few things to know before you do.&lt;/p&gt;
+
+&lt;h2 id=&quot;all-registrations-go-through-an-approval-process&quot;&gt;All registrations go through an approval process&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021/03/signup-questionnaire.jpg&quot; alt=&quot;image-right&quot; class=&quot;align-right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We want to keep the Dbljump editor community small for the time being. Partly because we’re still in alpha, or early, development. And partly because we’re still figuring out how best to look after our community.&lt;/p&gt;
+
+&lt;p&gt;When you sign up, we’ll approve or decline your registration based on the answers you give in the questionnaire part of the form. This helps us keep numbers small and make sure editors can write confidently in English.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To improve your chance of being accepted&lt;/strong&gt;, please answer the questions on why and how you’ll contribute to Dbljump as fully as you can. We’ll let you know by email if you’ve been successful or not.&lt;/p&gt;
+
+&lt;h2 id=&quot;alpha--early-in-development&quot;&gt;Alpha = early in development&lt;/h2&gt;
+
+&lt;p&gt;Dbljump only just launched and we’re calling its current state an “alpha” release.&lt;/p&gt;
+
+&lt;p&gt;What that means for you as an editor is that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Some features aren’t here yet.&lt;/strong&gt; But if you become an editor, you can have a say on which features we develop next.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The database design isn’t set in stone.&lt;/strong&gt; It’s possible that things you create will be deleted as Dbljump evolves, but we’ll do our utmost to make sure that doesn’t happen. Most likely is that some metadata or past article versions will get lost at some point.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Some features might might not work exactly as they should.&lt;/strong&gt; Tell us about bugs you encounter, so we can fix them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We really want to hear about your experiences, good or bad. With your help, we’ll evolve Dbljump into a service that’s useful to read and great to contribute to.&lt;/p&gt;
+
+&lt;h2 id=&quot;editor-support-pages-are-coming-your-questions-and-feedback-will-help-us-create-them&quot;&gt;Editor support pages are coming. Your questions and feedback will help us create them.&lt;/h2&gt;
+
+&lt;p&gt;There isn’t a lot of documentation about what to do as an editor yet.&lt;/p&gt;
+
+&lt;p&gt;Once your account is approved, you’ll log into your (quite-sparse-at-the-moment) dashboard and see tools for creating and editing articles about games, companies, and people. You can also upload images and add missing places.&lt;/p&gt;
+
+&lt;p&gt;But, how do you use these tools properly? We hope they’re intuitive enough, and you’re encouraged to simply try them out. But remember, this is an alpha test - and we’re going to use your feedback to evolve Dbljump editing tools so they’re just how you want them.&lt;/p&gt;
+
+&lt;p&gt;So, we’d like you to just give it a go! If you’re not sure what to do, or you want to request that we change or improve something, &lt;strong&gt;you can always talk to us via &lt;a href=&quot;https://www.twitter.com/dbljumpgames&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/dbljumpgames&quot;&gt;Facebook&lt;/a&gt;, or Discord&lt;/strong&gt;. I’m personally here to help in anyway I can.&lt;/p&gt;
+
+&lt;p&gt;Over the coming weeks and months, we’re going to be creating guides for editing Dbljump - first on this blog, and then on &lt;strong&gt;a dedicated support website&lt;/strong&gt;. All of your experiences and feedback will help us create useful docs, so keep experimenting and keep talking to us!&lt;/p&gt;
+
+&lt;h2 id=&quot;thinking-of-signing-up&quot;&gt;Thinking of signing up?&lt;/h2&gt;
+
+&lt;p&gt;We’d love to have you! Click below to learn more and sign up now.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.dbljump.com/editor-community&quot;&gt;More about the editor community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://id.dbljump.com/register&quot;&gt;Register as a Dbljump editor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Neil Wheatley</name></author><summary type="html">Learn about the editor registration approval process, the current project development phase, and coming support for editors.</summary></entry><entry><title type="html">What is Dbljump?</title><link href="https://blog.dbljump.com/2020/06/15/what-is-dbljump/" rel="alternate" type="text/html" title="What is Dbljump?" /><published>2020-06-15T00:00:00+01:00</published><updated>2020-06-15T00:00:00+01:00</updated><id>https://blog.dbljump.com/2020/06/15/what-is-dbljump</id><content type="html" xml:base="https://blog.dbljump.com/2020/06/15/what-is-dbljump/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dbljump is a mission to build the world’s best video game knowledge reference. It has the structure of a database, detailed prose like an encyclopaedia, and is 100% gaming focused. We’re launching an “alpha” version, with the goal of building the community and shaping development plans. Presentation and features will keep evolving with guidance from our community. This post will be updated when sign-ups open.&lt;/em&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;third &quot;&gt;
   
@@ -89,14 +142,10 @@
 &lt;p&gt;You can tell us which features are important via &lt;a href=&quot;https://www.twitter.com/dbljumpgames&quot;&gt;Twitter&lt;/a&gt; and our Discord (opening soon).&lt;/p&gt;
 
 &lt;figure class=&quot;&quot;&gt;
-  &lt;img src=&quot;/assets/images/2020/06/platforms-dashboard.jpg&quot; alt=&quot;Search, filter, add and edit game platforms&quot; /&gt;
-  
-    &lt;figcaption&gt;
+  &lt;img src=&quot;/assets/images/2020/06/platforms-dashboard.jpg&quot; alt=&quot;Search, filter, add and edit game platforms&quot; /&gt;&lt;figcaption&gt;
       Search, filter, add and edit game platforms
 
-    &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;which-topics-are-notable-enough&quot;&gt;Which topics are notable enough?&lt;/h2&gt;
 
