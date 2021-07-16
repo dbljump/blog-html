@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2021-03-16T10:53:52+00:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">Dbljump editor signups are open – here’s what you need to know</title><link href="https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open/" rel="alternate" type="text/html" title="Dbljump editor signups are open -- here's what you need to know" /><published>2021-03-16T00:00:00+00:00</published><updated>2021-03-16T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open</id><content type="html" xml:base="https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open/">&lt;p&gt;&lt;img src=&quot;/assets/images/2021/03/dbljump-editor-community.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2021-07-16T16:50:39+01:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">Dbljump is 6 times faster with our new API</title><link href="https://blog.dbljump.com/2021/07/16/dbljump-six-times-faster-new-api/" rel="alternate" type="text/html" title="Dbljump is 6 times faster with our new API" /><published>2021-07-16T00:00:00+01:00</published><updated>2021-07-16T00:00:00+01:00</updated><id>https://blog.dbljump.com/2021/07/16/dbljump-six-times-faster-new-api</id><content type="html" xml:base="https://blog.dbljump.com/2021/07/16/dbljump-six-times-faster-new-api/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; We’ve launched a new version of the Dbljump API, which makes switching between articles faster than before. We now have the right data platform on which to build new features you can see and use, including better article pages.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021/07/rails-jsonapi.png&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next time you visit &lt;a href=&quot;https://alpha.dbljump.com&quot;&gt;the Dbljump video game reference&lt;/a&gt;, you’ll notice links between articles load much, much faster. It’s all thanks to our new API!&lt;/p&gt;
+
+&lt;p&gt;The new API is made with &lt;a href=&quot;https://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; 6, whereas previously we were on Rails 5.&lt;/p&gt;
+
+&lt;p&gt;But the real reason for the speed boost is &lt;a href=&quot;https://github.com/jsonapi-serializer/jsonapi-serializer&quot;&gt;jsonapi-serializer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our API follows the &lt;a href=&quot;https://jsonapi.org/&quot;&gt;JSON:API&lt;/a&gt; specification. Previously, we used a &lt;a href=&quot;https://en.wikipedia.org/wiki/RubyGems&quot;&gt;Ruby gem&lt;/a&gt; called Active Model Serializers (AMS) to turn database records into JSON:API. But AMS is old and mothballed, while jsonapi-serializer is around &lt;a href=&quot;https://github.com/netflix/fast_jsonapi#performance-comparison&quot;&gt;25 times faster&lt;/a&gt; at serializing responses!&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-an-api&quot;&gt;What’s an API?&lt;/h2&gt;
+
+&lt;p&gt;An API (application programming interface) is a way for people or other applications to interact with an application. When a digital service needs to be used by various apps, having an API gives those apps a simple interface to use.&lt;/p&gt;
+
+&lt;p&gt;Our  API lets dbljump.com fetch articles from the database, handles user logins, processes new data before its gets saved, and other things like that.&lt;/p&gt;
+
+&lt;h2 id=&quot;speed-comparison&quot;&gt;Speed comparison&lt;/h2&gt;
+
+&lt;p&gt;The easiest way to see the speed boost is by comparing the test suites of our old and new APIs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021/07/dbljump-api-test-speed-comparison.png&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In software development, having an automated test suite is a way to make sure features stay workin over time. Adding new features or taking away old ones can unintentionally break other features. Testing flags broken features straight away.&lt;/p&gt;
+
+&lt;p&gt;Our old API test suite completed around 62 test assertions per second. But the new one handles 400 assertions per second. &lt;strong&gt;That’s 6.45 times faster!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-better-platform-for-building-new-features&quot;&gt;A better platform for building new features&lt;/h2&gt;
+
+&lt;p&gt;The new API has lots of other improvements too. So, it gives us a great foundation on which to build new Dbljump features you can see and use. We’ll have an update about new features soon.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, why not join &lt;strong&gt;our mission to build the world’s best video game reference&lt;/strong&gt; now? Choose how you want to get involved and click below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://id.dbljump.com/register&quot;&gt;Sign up as a Dbljump editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twitter.com/dbljumpgames&quot;&gt;Contact us via Twitter if you’d like to join the team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/dbljumpgames&quot;&gt;Get our latest updates on Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Neil Wheatley</name></author><summary type="html">Dbljump pages load much faster with our new API version, made with Ruby on Rails 6 and jsonapi-serializer.</summary></entry><entry><title type="html">Dbljump editor signups are open – here’s what you need to know</title><link href="https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open/" rel="alternate" type="text/html" title="Dbljump editor signups are open -- here's what you need to know" /><published>2021-03-16T00:00:00+00:00</published><updated>2021-03-16T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open</id><content type="html" xml:base="https://blog.dbljump.com/2021/03/16/dbljump-editor-signups-are-open/">&lt;p&gt;&lt;img src=&quot;/assets/images/2021/03/dbljump-editor-community.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; You can now sign up to become a Dbljump editor! You’ll need to be approved before you can start editing. The project is evolving, and some features aren’t here yet, but as an editor you can help shape them. We plan to improve support materials for editors in the coming weeks.&lt;/em&gt;&lt;/p&gt;
 

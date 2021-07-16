@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/2021/03/16/dbljump-editor-signups-are-open/",
         "teaser": "/assets/images/2021/03/dbljump-editor-community.jpg"
+      },{
+        "title": "Dbljump is 6 times faster with our new API",
+        "excerpt":"Summary: We’ve launched a new version of the Dbljump API, which makes switching between articles faster than before. We now have the right data platform on which to build new features you can see and use, including better article pages. The next time you visit the Dbljump video game reference,...","categories": ["Development"],
+        "tags": [],
+        "url": "/2021/07/16/dbljump-six-times-faster-new-api/",
+        "teaser": "/assets/images/2021/07/rails-jsonapi.png"
       }]
