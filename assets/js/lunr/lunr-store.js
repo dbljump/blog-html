@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/2021/07/16/dbljump-six-times-faster-new-api/",
         "teaser": "/assets/images/2021/07/rails-jsonapi.png"
+      },{
+        "title": "Dev diary: article fixes are here, web resources and game details coming soon",
+        "excerpt":"Summary: We’ve fixed and improved many Dbljump article features and we’re working on new ones, including web resources and game details. We deployed a new version of the Dbljump public reference last week, which brings lots of fixes and improvements - and takes us another step closer towards achieving our...","categories": ["Development"],
+        "tags": [],
+        "url": "/2021/08/24/dev-diary-article-fixes-web-resources-game-details/",
+        "teaser": "/assets/images/2021/08/zelda-article.png"
       }]
