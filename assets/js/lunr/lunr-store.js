@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/2021/08/24/dev-diary-article-fixes-web-resources-game-details/",
         "teaser": "/assets/images/2021/08/zelda-article.png"
+      },{
+        "title": "New user settings have arrived - try them out now",
+        "excerpt":"Summary: Announcing new user features at Dbljump including profile picture uploads, non-binary gender settings, auto-redirects after logging in, and login email changes. Have you registered as a Dbljump editor yet? If you have, you might have noticed a few missing features at our user settings site id.dbljump.com. Good news -...","categories": ["Development","Community"],
+        "tags": [],
+        "url": "/2021/09/24/new-user-settings-have-arrived/",
+        "teaser": "/assets/images/2021/09/dbljump-user-settings.jpg"
       }]
