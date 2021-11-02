@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/2021/09/24/new-user-settings-have-arrived/",
         "teaser": "/assets/images/2021/09/dbljump-user-settings.jpg"
+      },{
+        "title": "Share your Brave Rewards with Dbljump - and help make Internet ads safer and better",
+        "excerpt":"Summary: Dbljump is now a verified Brave Rewards creator, which means you can support our mission just by using the excellent Brave browser. Brave has great privacy features and non-intrusive ads, and users receive BAT cryptocurrency payments each month. We hope you’ll try it and inlcude Dbljump in your monthly...","categories": ["Community"],
+        "tags": [],
+        "url": "/2021/11/02/contribute-brave-rewards-to-dbljump/",
+        "teaser": "/assets/images/2021/11/brave-rewards.jpg"
       }]
