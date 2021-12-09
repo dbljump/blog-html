@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/2021/11/02/contribute-brave-rewards-to-dbljump/",
         "teaser": "/assets/images/2021/11/brave-rewards.jpg"
+      },{
+        "title": "Smarter than AI, more valuable than oil - it's the Dbljump community, join us!",
+        "excerpt":"Summary: We recently ran our first data scraping project - which was a reminder that (1) our user community, not raw data, is the most valuable thing we have, and (2) Dbljump needs to be more than just a game database to succeed. Will you join us? Some people say...","categories": ["Community","Mission"],
+        "tags": [],
+        "url": "/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/",
+        "teaser": "/assets/images/2021/12/dbljump-community.jpg"
       }]

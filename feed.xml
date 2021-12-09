@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2021-11-02T11:03:05+00:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">Share your Brave Rewards with Dbljump - and help make Internet ads safer and better</title><link href="https://blog.dbljump.com/2021/11/02/contribute-brave-rewards-to-dbljump/" rel="alternate" type="text/html" title="Share your Brave Rewards with Dbljump - and help make Internet ads safer and better" /><published>2021-11-02T00:00:00+00:00</published><updated>2021-11-02T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/11/02/contribute-brave-rewards-to-dbljump</id><content type="html" xml:base="https://blog.dbljump.com/2021/11/02/contribute-brave-rewards-to-dbljump/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dbljump is now a verified Brave Rewards creator, which means you can support our mission just by using the excellent Brave browser. Brave has great privacy features and non-intrusive ads, and users receive BAT cryptocurrency payments each month. We hope you’ll try it and inlcude Dbljump in your monthly tips!&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2021-12-09T10:56:52+00:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">Smarter than AI, more valuable than oil - it’s the Dbljump community, join us!</title><link href="https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/" rel="alternate" type="text/html" title="Smarter than AI, more valuable than oil - it's the Dbljump community, join us!" /><published>2021-12-09T00:00:00+00:00</published><updated>2021-12-09T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community</id><content type="html" xml:base="https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; We recently ran our first data scraping project - which was a reminder that (1) our user community, not raw data, is the most valuable thing we have, and (2) Dbljump needs to be more than just a game database to succeed. Will you join us?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021/12/dbljump-community.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Some people say data is the new oil&lt;/strong&gt;. As in, the new Most Valuable Thing to be in the business of.&lt;/p&gt;
+
+&lt;p&gt;Recently I’ve been working on a metadata scraping project within Dbljump. With data scraping, I’ve added around 1,400 company records to the database. It’s much faster than doing it by hand. Each record is a stub for a new Dbljump article, and having them in place is useful for creating game credits and other relationships. I also learned some Python along the way!&lt;/p&gt;
+
+&lt;p&gt;Data scraping is really useful and we’ll continue to do it. It’s important to our mission. If we’re successful, one day other projects will be scraping “our” data.&lt;/p&gt;
+
+&lt;p&gt;But…&lt;/p&gt;
+
+&lt;p&gt;In the course of my first data scraping project, I was also reminded that pure data is not the Most Valuable Thing for Dbljump. It’s not our oil, our fuel, or our primary resource.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The most valuable thing to Dbljump is actually you&lt;/strong&gt; - our community.&lt;/p&gt;
+
+&lt;p&gt;(I don’t mean your personal data. We don’t have any interest in that.)&lt;/p&gt;
+
+&lt;p&gt;Why is community better than data? Because having lots of games industry data isn’t actually that valuable. No matter how beautifully it’s presented, it’s still just data that doesn’t really belong to anyone. And by itself, it doesn’t make for an interesting service.&lt;/p&gt;
+
+&lt;p&gt;I’ve believed this from the very start of the Dbljump project – and that’s why I’ve always thought Dbljump needs to be more than a gaming database.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-difference-between-dbljump-and-game-databases&quot;&gt;The difference between Dbljump and game databases&lt;/h2&gt;
+
+&lt;p&gt;Look at one of the more-complete pages on Dbljump - like our article on &lt;a href=&quot;https://alpha.dbljump.com/games/ghosts-n-goblins-resurrection&quot;&gt;Ghosts ‘n Goblins Resurrection&lt;/a&gt; - and compare it to what game database sites have for the same title.&lt;/p&gt;
+
+&lt;p&gt;See the difference?&lt;/p&gt;
+
+&lt;p&gt;Just like game database sites, the Dbljump page has structured metadata, images, and credits. Structured data is obviously a big part of what makes a service like Dbljump useful.&lt;/p&gt;
+
+&lt;p&gt;But you’ll see &lt;strong&gt;most of the page is made up of written content&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can read the page like an article. Dive into the details. And click through to sources, which give you even more depth (and properly credit other creators). This encyclopaedia-like content is unique and written by Dbljump community members like you.&lt;/p&gt;
+
+&lt;p&gt;There are two reasons why Dbljump is designed like this, with written content playing such an important role.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Structured metadata doesn’t tell the full story&lt;/strong&gt;. It can’t describe how news of Resurrection’s development was leaked, or what the series creator’s goal was. Only written content can do that.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;We can only make something new and better&lt;/strong&gt; by creating this kind of rich and unique content. Game database projects that are focused on metadata already exist, but they fall short of what we want from a gaming knowledge centre. That’s one reason we’re building Dbljump.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This brings us to why community is the Most Valuable Thing for Dbljump.&lt;/p&gt;
+
+&lt;h2 id=&quot;only-a-community-can-achieve-our-mission&quot;&gt;Only a community can achieve our mission&lt;/h2&gt;
+
+&lt;p&gt;It takes people - not just bots, scripts, or data models - to build something worthwhile.&lt;/p&gt;
+
+&lt;p&gt;Dbljump is very much a software project. There’s a big stack of technologies it can’t even exist without. But I believe technology is just a tool for people to use. It’s only ever one part of a good solution.&lt;/p&gt;
+
+&lt;p&gt;So, the plan has never been to create this big automated data harvester. We don’t think AI or machine learning can write good content. The mission isn’t to exploit and extract value and profit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No, Dbljump’s mission really is to build the world’s best video game knowledge reference&lt;/strong&gt;. And we can only do it with your help.&lt;/p&gt;
+
+&lt;p&gt;We don’t want to take ownership of the content you create with Dbljump either. All Dbljump content will be published via Creative Commons licensing. As we grow, we also want to share the wealth and give you ways to present the research and writing you do as a Dbljump editor.&lt;/p&gt;
+
+&lt;h2 id=&quot;it-only-take-a-minute-to-join&quot;&gt;It only take a minute to join!&lt;/h2&gt;
+
+&lt;p&gt;Dbljump is working to become the best place on the Internet to find anything you want to know about games, gaming companies, industry people, and more. We’ll get there much faster with your help, and you could meet interesting people and learn new things along the way.&lt;/p&gt;
+
+&lt;p&gt;So why not join us? You can register as an editor now.&lt;/p&gt;
+
+&lt;p&gt;And feel free to reach out to me directly with any questions or comments via &lt;a href=&quot;https://www.twitter.com/dbljumpgames&quot;&gt;Twitter&lt;/a&gt; DMs or &lt;a href=&quot;https://www.facebook.com/dbljumpgames&quot;&gt;Facebook&lt;/a&gt; messaging. I really love to hear from anyone insterested in our project.&lt;/p&gt;
+
+&lt;p&gt;Some people think data is the new oil. Well, the Dbljump community wants to welcome you - and we wouldn’t trade you for a hundred barrels!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://id.dbljump.com/register&quot;&gt;Register as an editor&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Neil Wheatley</name></author><summary type="html">A recent data scraping project reminded us of the huge value of community and why Dbljump needs to be more than a game database.</summary></entry><entry><title type="html">Share your Brave Rewards with Dbljump - and help make Internet ads safer and better</title><link href="https://blog.dbljump.com/2021/11/02/contribute-brave-rewards-to-dbljump/" rel="alternate" type="text/html" title="Share your Brave Rewards with Dbljump - and help make Internet ads safer and better" /><published>2021-11-02T00:00:00+00:00</published><updated>2021-11-02T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/11/02/contribute-brave-rewards-to-dbljump</id><content type="html" xml:base="https://blog.dbljump.com/2021/11/02/contribute-brave-rewards-to-dbljump/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dbljump is now a verified Brave Rewards creator, which means you can support our mission just by using the excellent Brave browser. Brave has great privacy features and non-intrusive ads, and users receive BAT cryptocurrency payments each month. We hope you’ll try it and inlcude Dbljump in your monthly tips!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/2021/11/brave-rewards.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
 
