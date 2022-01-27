@@ -40,4 +40,10 @@ var store = [{
         "tags": [],
         "url": "/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/",
         "teaser": "/assets/images/2021/12/dbljump-community.jpg"
+      },{
+        "title": "APA-style referencing comes to Dbljump",
+        "excerpt":"Summary: Dbljump articles now feature references in the widely-used APA style of academic citation. As an editor, it’s easy to reference many kinds of resources and add multiple sources for each part of your article. Good referencing is really important to us here at Dbljump, so I’m really happy to...","categories": ["Mission","Development"],
+        "tags": [],
+        "url": "/2022/01/26/apa-style-referencing-comes-to-dbljump/",
+        "teaser": "/assets/images/2022/01/library-books.jpg"
       }]

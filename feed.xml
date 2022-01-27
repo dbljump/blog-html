@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2021-12-09T10:56:52+00:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">Smarter than AI, more valuable than oil - it’s the Dbljump community, join us!</title><link href="https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/" rel="alternate" type="text/html" title="Smarter than AI, more valuable than oil - it's the Dbljump community, join us!" /><published>2021-12-09T00:00:00+00:00</published><updated>2021-12-09T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community</id><content type="html" xml:base="https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; We recently ran our first data scraping project - which was a reminder that (1) our user community, not raw data, is the most valuable thing we have, and (2) Dbljump needs to be more than just a game database to succeed. Will you join us?&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://blog.dbljump.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dbljump.com/" rel="alternate" type="text/html" /><updated>2022-01-27T22:45:03+00:00</updated><id>https://blog.dbljump.com/feed.xml</id><title type="html">Dbljump Blog</title><subtitle>Dbljump is on a mission to build the world's best video game reference. Read updates and opinion from our team.</subtitle><author><name>Dbljump Team</name></author><entry><title type="html">APA-style referencing comes to Dbljump</title><link href="https://blog.dbljump.com/2022/01/26/apa-style-referencing-comes-to-dbljump/" rel="alternate" type="text/html" title="APA-style referencing comes to Dbljump" /><published>2022-01-26T00:00:00+00:00</published><updated>2022-01-26T00:00:00+00:00</updated><id>https://blog.dbljump.com/2022/01/26/apa-style-referencing-comes-to-dbljump</id><content type="html" xml:base="https://blog.dbljump.com/2022/01/26/apa-style-referencing-comes-to-dbljump/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dbljump articles now feature references in the widely-used APA style of academic citation. As an editor, it’s easy to reference many kinds of resources and add multiple sources for each part of your article.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2022/01/library-books.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Good referencing is really important to us here at Dbljump, so I’m really happy to announce that articles on games, people, and companies now feature APA-style referencing.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-is-referencing-important&quot;&gt;Why is referencing important?&lt;/h2&gt;
+
+&lt;p&gt;We’re striving to build something important for gaming with Dbljump - a resource you can trust, which honours and respects creators, and keeps high standards for compiling and presenting information.&lt;/p&gt;
+
+&lt;p&gt;Referencing is really important in achieving these goals because:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It makes the information in Dbljump articles verifiable.&lt;/li&gt;
+  &lt;li&gt;It allows you, the reader, to easily find and read sources yourself. A Dbljump article should provide a comprehensive summary on its topic. With good referencing, you can dive further into the details.&lt;/li&gt;
+  &lt;li&gt;It enables us to credit the primary sources used by Dbljump - the journalists, the researchers, the archivists - and help they reach a wider audience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-apa-referencing&quot;&gt;What is APA referencing?&lt;/h2&gt;
+
+&lt;p&gt;We’ve chosen the APA (American Psychological Association) citation style for Dbljump. Although it was designed for the field of psychology, it’s used today in many fields of science and humanities.&lt;/p&gt;
+
+&lt;p&gt;APA references look like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;McWhertor, M. (2020, December 10). Capcom’s making a new
+    Ghosts ’n Goblins. Polygon. Vox Media, LLC.
+    https://www.polygon.com/some-uri.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Our APA styling is based on &lt;a href=&quot;https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html&quot;&gt;Purdue University’s guide to APA 7&lt;/a&gt;. We don’t have a perfect implementation yet, but we’ll improve it over time.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-you-add-references-to-an-article&quot;&gt;How do you add references to an article?&lt;/h2&gt;
+
+&lt;p&gt;As part of the move to support APA, we’ve revamped Dbljump’s tools for creating and editing encyclopaedia-like content.&lt;/p&gt;
+
+&lt;p&gt;When adding or editing an article paragraph, you can now use a simple form to add multiple sources:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Choose from six currently-supported media types: web article, website, web page, YouTube video, book, or print article.&lt;/li&gt;
+  &lt;li&gt;Check the URL.  If it’s already referenced by another article, you can link it to the article you’re working on.&lt;/li&gt;
+  &lt;li&gt;Fill in a set of form fields appropriate to the type of source you’re referencing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/assets/images/2022/01/check-url.jpg&quot; alt=&quot;&quot; /&gt;&lt;figcaption&gt;
+      If the resource you’re citing is already on Dbljump, just link it
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+  &lt;img src=&quot;/assets/images/2022/01/cite-book.jpg&quot; alt=&quot;&quot; /&gt;&lt;figcaption&gt;
+      You can easily add information for each kind of reference
+
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;how-can-we-improve-this&quot;&gt;How can we improve this?&lt;/h2&gt;
+
+&lt;p&gt;We’ve just launched this feature and we’d love for you to try it and let us know what you think.&lt;/p&gt;
+
+&lt;p&gt;In the future, we plan to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Validate URLs before saving, to make sure they’re loading&lt;/li&gt;
+  &lt;li&gt;Check source URLs against a deny list of websites before saving, to reduce spam and poor-quality references&lt;/li&gt;
+  &lt;li&gt;Support more kinds of media, like non-YouTube videos&lt;/li&gt;
+  &lt;li&gt;Support page numbers for print media&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can let us know what you think via Twitter or our Facebook page.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-can-create-well-cited-gaming-articles-with-dbljump-now&quot;&gt;You can create well-cited gaming articles with Dbljump now!&lt;/h2&gt;
+
+&lt;p&gt;Slowly but surely, Dbljump is becoming a unique platform for organising and sharing video gaming knowledge.&lt;/p&gt;
+
+&lt;p&gt;We can only achieve our mission with your help. Register now to join the community and try these new features!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://id.dbljump.com/register&quot;&gt;Register as an editor&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Neil Wheatley</name></author><summary type="html">Dbljump articles now feature references in the widely-used APA style of academic citation. As an editor, it's easy to add multiple sources to your article content.</summary></entry><entry><title type="html">Smarter than AI, more valuable than oil - it’s the Dbljump community, join us!</title><link href="https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/" rel="alternate" type="text/html" title="Smarter than AI, more valuable than oil - it's the Dbljump community, join us!" /><published>2021-12-09T00:00:00+00:00</published><updated>2021-12-09T00:00:00+00:00</updated><id>https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community</id><content type="html" xml:base="https://blog.dbljump.com/2021/12/09/smarter-than-ai-more-valuable-than-oil-community/">&lt;p class=&quot;notice--info&quot;&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt; We recently ran our first data scraping project - which was a reminder that (1) our user community, not raw data, is the most valuable thing we have, and (2) Dbljump needs to be more than just a game database to succeed. Will you join us?&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/2021/12/dbljump-community.jpg&quot; alt=&quot;image-center&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
 
